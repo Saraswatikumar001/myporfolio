@@ -8,13 +8,7 @@ function App() {
       <div className="">
       </div>
       <div>
-        <Navbar />
         <About />
-        <Skills />
-        <Experience />
-        <Education />
-        <Contact />
-        <Footer />
 
       </div>
     </>
