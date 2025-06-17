@@ -12,12 +12,11 @@ function App() {
   return (
     <>
       <div className="">
-
       </div>
       <div>
         <Navbar />
         <About />
-        < Skills />
+        <Skills />
         <Experience />
         <Education />
         <Contact />
