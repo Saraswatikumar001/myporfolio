@@ -1,11 +1,5 @@
 import React from "react"
-import Navbar from "./Components/Navbar/Navbar"
 import About from "./Components/About/About"
-import Skills from "./Components/Skills/Skills"
-import Experience from "./Components/Experience/Experience"
-import Education from "./Components/Education/Education"
-import Contact from "./Components/Contact/Contact"
-import Footer from "./Components/Footer/Footer"
 
 function App() {
 
